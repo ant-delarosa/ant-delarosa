@@ -4,8 +4,9 @@ My name is Antonio, I am a Software Engineer with professional experience in Pyt
 
 📫 How to reach me:  
 antoniorngl@gmail.com  
-https://www.linkedin.com/in/ant-delarosa/
 <!--
+https://www.linkedin.com/in/ant-delarosa/
+
 **chepoes/chepoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
