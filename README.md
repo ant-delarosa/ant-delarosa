@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Antonio, I am a Software Engineer with professional experience in Python, C++, embedded and Linux development. I am currently interested in topics like data science, ML and mobile app development. I will upload personal and academic projects as well as other stuff that could be interesting for the community.
+My name is Antonio, I am a Software Engineer with professional experience in Python, C++, embedded and Linux development. I am currently interested in topics like devops and cloud computing. I will upload personal and academic projects as well as other stuff that could be interesting for the community.
 
 📫 How to reach me:  
 antoniorngl@gmail.com  
